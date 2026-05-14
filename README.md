@@ -89,12 +89,6 @@ Streamlit App Deployment
 
 ## 🔧 Installation
 
-**1. Clone the repository:**
-```bash
-git clone https://github.com/yourusername/retail-demand-forecasting.git
-cd retail-demand-forecasting
-```
-
 **2. Install dependencies:**
 ```bash
 pip install -r requirements.txt
